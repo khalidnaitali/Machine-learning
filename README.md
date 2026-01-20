@@ -140,7 +140,7 @@ python train_model.py
 # Lancement de l'application
 streamlit run app.py
 
-👥 Auteurs
+## 👥 Auteurs
 
 Projet réalisé par :
 
