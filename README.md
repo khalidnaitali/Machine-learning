@@ -140,3 +140,15 @@ python train_model.py
 # Lancement de l'application
 streamlit run app.py
 
+👥 Auteurs
+
+Projet réalisé par :
+
+KHALID NAIT ALI
+
+SAAD SAINANE
+
+ZAKARIRA FTISSA
+
+EL MEHDI AMAR
+Ce projet a été réalisé dans un cadre académique.
