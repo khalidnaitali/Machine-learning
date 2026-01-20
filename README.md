@@ -144,6 +144,7 @@ streamlit run app.py
 
 ## 👥 Auteurs
 
+```
 Projet réalisé par :
 
 KHALID NAIT ALI
@@ -155,4 +156,4 @@ ZAKARIRA FTISSA
 EL MEHDI AMAR
 
 Ce projet a été réalisé dans un cadre académique.
-```
+
