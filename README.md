@@ -144,7 +144,7 @@ streamlit run app.py
 
 ## 👥 Auteurs
 
-```
+
 Projet réalisé par :
 
 KHALID NAIT ALI
