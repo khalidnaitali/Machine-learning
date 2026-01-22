@@ -1,7 +1,7 @@
 # 🫀 Tableau de Bord de Prédiction du Risque Cardiaque
 
 🔗 **Application en ligne** :
-https://machine-learning-mq5chodfmh6jdyoyrqj8qy.streamlit.app/ 
+https://machine-learning-8wxmflpjfrjt6ay2fbnbzp.streamlit.app/ 
 
 ---
 
